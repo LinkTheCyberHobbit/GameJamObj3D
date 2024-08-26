@@ -1,9 +1,24 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6">
   <diagram name="Page-1" id="Z9ySQEbO-lrrXCE6wy1H">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="YFXJ-zW99d9bZeo_NSN6-1" value="&lt;font style=&quot;font-size: 31px;&quot;&gt;Salvage&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="320" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YFXJ-zW99d9bZeo_NSN6-2" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Recyclage&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YFXJ-zW99d9bZeo_NSN6-3" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Farming&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YFXJ-zW99d9bZeo_NSN6-4" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Build&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YFXJ-zW99d9bZeo_NSN6-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="340" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
