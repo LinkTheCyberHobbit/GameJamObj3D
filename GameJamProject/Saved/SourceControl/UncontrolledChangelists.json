@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/msueu/Documents/Unreal Projects/Cours3W/ProjetGroupeAvecLeoDB/GameJamObj3D/GameJamProject/Content/GameplayObjects/BP_SpawnerWreckShip.uasset",
 				"D:/Cyber_Hobbit_Contents/Unreal Projects/GameJamProject/Content/Player/BP_Spaceship.uasset",
 				"D:/Cyber_Hobbit_Contents/Unreal Projects/GameJamProject/Content/Player/Inputs/IA_Rotate.uasset",
 				"D:/Cyber_Hobbit_Contents/Unreal Projects/GameJamProject/Content/Player/Inputs/IA_Fire.uasset",
