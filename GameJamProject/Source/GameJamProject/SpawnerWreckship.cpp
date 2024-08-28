@@ -31,11 +31,11 @@ void ASpawnerWreckship::SpawnItem()
         if (_spawnedItem)
         {
             spawnedItems.Add(_spawnedItem);
-            TObjectPtr<AWreckshipItem> _wreckshipItem = Cast<AWreckshipItem>(_spawnedItem);
+            /*TObjectPtr<AWreckshipItem> _wreckshipItem = Cast<AWreckshipItem>(_spawnedItem);
             if (_wreckshipItem)
             {
                 
-            }
+            }*/
         }
 
         // Délai avant la prochaine génération
